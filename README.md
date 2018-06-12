@@ -1,4 +1,4 @@
-# CUBE-ONE
+# CUBES
 
 Here you can find the C code for the ESP32 placed in the first cube. 
 
